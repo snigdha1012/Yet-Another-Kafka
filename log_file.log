@@ -1,0 +1,7 @@
+Published message to topic: big_data
+Published message to topic: big_data
+Published message to topic: big_data
+Published message to topic: big_data
+Published message to topic: big_data
+Subscribed message from topic: big_data:b'kafka\nbroker\nconsumer\nproducer\nzookeeper\nRecv'
+Subscribed message from topic: big_data1:b'Topic not found'
